@@ -1,0 +1,21 @@
+# Ignore sensitive files
+/config/gemini_api_key.php
+
+# Ignore Composer dependencies
+/vendor/
+
+# Ignore uploaded files
+/uploads/
+
+# Ignore database files
+/exam_vt/*.db
+
+# Ignore IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore OS generated files
+.DS_Store
+thumbs.db
